@@ -18,7 +18,7 @@ $ yarn install taiyi-crypto
 ## API
 
 ```
-> crypto = require('@taiyi/libcrypto');
+> crypto = require('@taiyinet/libcrypto');
 ```
 
 ### crypto.sha256(data)

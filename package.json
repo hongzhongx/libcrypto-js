@@ -1,5 +1,5 @@
 {
-  "name": "@taiyi/libcrypto",
+  "name": "@taiyinet/libcrypto",
   "version": "1.0.0",
   "description": "Common javascript cryptographic utilities. Based on sjcl.",
   "main": "lib/crypto.js",
