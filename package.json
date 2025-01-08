@@ -4,6 +4,10 @@
   "description": "Common javascript cryptographic utilities. Based on sjcl.",
   "main": "lib/crypto.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongzhongx/libcrypto-js.git"
+  },
   "scripts": {
     "prepublish": "./scripts/build.js",
     "clean": "rm -Rf lib",
